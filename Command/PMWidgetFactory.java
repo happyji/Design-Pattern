@@ -1,4 +1,4 @@
-package AbstractFactory;
+package designpattern.Command;
 
 public class PMWidgetFactory implements WidgetFactory {
     @Override

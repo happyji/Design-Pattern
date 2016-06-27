@@ -1,4 +1,4 @@
-package AbstractFactory;
+package designpattern.AbstractFactory;
 
 public class MotifWidgetFactory implements WidgetFactory {
     @Override

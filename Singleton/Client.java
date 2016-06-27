@@ -1,4 +1,4 @@
-package Singleton;
+package designpattern.Singleton;
 
 public class Client {
 

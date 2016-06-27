@@ -1,4 +1,4 @@
-package Decorator;
+package designpattern.Decorator;
 
 abstract public class Beverage {
    String description= "unknown drink";

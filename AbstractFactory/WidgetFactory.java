@@ -1,4 +1,4 @@
-package AbstractFactory;
+package designpattern.AbstractFactory;
 
 public interface WidgetFactory {
     ScrollBar createScrollBar();
